@@ -9,7 +9,7 @@
 
 adslhdalkhdal
 
-[动态ppt 例子](./examples/)
+[动态ppt 例子](./impress/examples/)
 
 
 
